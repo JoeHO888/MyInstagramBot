@@ -2,6 +2,9 @@
 ## An Instagram bot which sources photos from Instagram, selects the best photo among them with Machine Learning and post that photo everyday. On top of that, it follows and unfollows other Instagram accounts to boost followers.
 ##### Project inspired by [this medium post](https://medium.com/@chrisbuetti/how-i-eat-for-free-in-nyc-using-python-automation-artificial-intelligence-and-instagram-a5ed8a1e2a10)
 
+### Letter To Clément
+#### Hi Clément, thank you for hosting this contenst. It is an interesting contest, it lets me learn about async crawling and apply machine learning in real-life. On top of that, This competition is really important to me. I share similar background as you, studying in Mathematics and did not learn much about programming in colleague, but what differentiates you and me is that I couldn't find a suitable software engineer job in my hometown while you were working in Google and Facebook, this indeed makes me so jealous. Therefore, I really want to win this contest and secure the job interview (possibly?). Thank you for hosting this contest again. Regards, Joe
+
 ### Factors to determine the best photos
 1. Quality of photo (explained in below section)
 2. Photo posted time
