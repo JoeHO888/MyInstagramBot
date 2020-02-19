@@ -1,4 +1,4 @@
-# Instagram Influencer Bot under $6 on Azure
+# Create a profitable Instagram Repost Bot
 ## An Instagram bot which sources photos from Instagram, selects the best photo among them with Machine Learning and post that photo everyday. On top of that, it follows and unfollows other Instagram accounts to boost followers.
 ##### Project inspired by [this medium post](https://medium.com/@chrisbuetti/how-i-eat-for-free-in-nyc-using-python-automation-artificial-intelligence-and-instagram-a5ed8a1e2a10)
 
